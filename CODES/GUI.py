@@ -4,7 +4,7 @@ import os
 root = Tk ()
 
 root.title("Drowsiness Detection")
-root.geometry("400x400")
+root.geometry("500x500")
 thresh = 0.25
 frame_check = 20
 
