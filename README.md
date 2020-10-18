@@ -2,7 +2,7 @@
 Here our main application 
 ### Drowsiness Detector 
 is in the 
-## Final folder
+## CODES folder
 You have to download our code and run the file named 
 ## gui.py. 
 To enjoy our features for windows pc.
