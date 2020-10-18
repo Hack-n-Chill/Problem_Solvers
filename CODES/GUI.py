@@ -8,8 +8,8 @@ root.geometry("500x500")
 thresh = 0.25
 frame_check = 20
 
-Threshold = Label(root, text = "Thresh eye ratio ")
-Frame_check = Label(root, text = "Frames to be checked ")
+Threshold = Label(root, text = "Thresh eye ratio (Default value is 25)")
+Frame_check = Label(root, text = "Frames to be checked (Default value is 20)")
 entry1 = Entry(root,textvariable = thresh)
 entry2 = Entry(root,textvariable = frame_check)
 
@@ -39,10 +39,10 @@ entry1.grid(row = 1, column = 7)
 entry2.grid(row = 3, column = 7)
 
 
-button1 = Button(root,text = "Sleep", fg="red", command = Button_1)
+button1 = Button(root,height=10,width=20,text = "Sleep", fg="red", command = Button_1)
 button1.grid(row = 5 ,column = 3, columnspan = 3)
 
-button2 = Button(root,text = "Alarm", fg="blue",command = Button_2)
+button2 = Button(root,height=10,width=20,text = "Alarm", fg="blue",command = Button_2)
 button2.grid(row = 5, column = 5, columnspan = 3)
 
 root.mainloop()
