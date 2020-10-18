@@ -2,7 +2,7 @@
 Here our main application 
 ### Drowsiness Detector 
 is in the 
-## CODES folder
+## CODES folder -> GUI
 You have to download our code and run the file named 
 ## gui.exe. 
 To enjoy our features for windows pc.
