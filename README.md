@@ -4,7 +4,7 @@ Here our main application
 is in the 
 ## CODES folder
 You have to download our code and run the file named 
-## gui.py. 
+## gui.exe. 
 To enjoy our features for windows pc.
 We have optimised our code to change the eye size as well as to change the time of alert.
 ### Team Members :-
