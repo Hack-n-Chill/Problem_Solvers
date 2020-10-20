@@ -13,3 +13,6 @@ Here is the picture of our GUI of our app
 #### SABARNNA SEN
 #### DWAIPAYAN GUHA
 #### ANIRBAN SAHA
+
+We have got special mention in the competition.
+<img src="https://github.com/Hack-n-Chill/Problem_Solvers/blob/main/special%20mention.jpg" alt="Special Mention">
